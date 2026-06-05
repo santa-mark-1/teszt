@@ -11,7 +11,7 @@ export default function LoginPage() {
         {/* Logo */}
         <div className="text-center mb-8">
           <p className="text-[28px] font-bold text-[#f0f0f0]">
-            Neighbor<span className="font-normal text-[#888]">Hub</span>
+            Neighbor HAHAHAHAH<span className="font-normal text-[#888]">Hub</span>
           </p>
           <p className="text-sm text-[#888] mt-1.5">Csatlakozz a helyi közösséghez!</p>
         </div>
