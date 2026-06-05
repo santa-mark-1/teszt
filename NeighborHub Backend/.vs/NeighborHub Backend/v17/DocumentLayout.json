@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|c:\\i\u00E1kk\\neighborhub\\teszt\\neighborhub backend\\neighborhub backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|solutionrelative:neighborhub backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|c:\\i\u00E1kk\\neighborhub\\teszt\\neighborhub backend\\neighborhub backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|solutionrelative:neighborhub backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|c:\\i\u00E1kk\\neighborhub\\teszt\\neighborhub backend\\neighborhub backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|solutionrelative:neighborhub backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|c:\\i\u00E1kk\\neighborhub\\teszt\\neighborhub backend\\neighborhub backend\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|solutionrelative:neighborhub backend\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|c:\\i\u00E1kk\\neighborhub\\teszt\\neighborhub backend\\neighborhub backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|solutionrelative:neighborhub backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|c:\\i\u00E1kk\\neighborhub\\teszt\\neighborhub backend\\neighborhub backend\\neighborhub backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{16177CB3-750F-487A-B312-4761DF4AE3B2}|NeighborHub Backend\\NeighborHub Backend.csproj|solutionrelative:neighborhub backend\\neighborhub backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NeighborHub Backend\\appsettings.Development.json",
+              "ToolTip": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\appsettings.Development.json",
+              "RelativeToolTip": "NeighborHub Backend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T10:34:18.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\Program.cs",
+              "RelativeDocumentMoniker": "NeighborHub Backend\\Program.cs",
+              "ToolTip": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\Program.cs",
+              "RelativeToolTip": "NeighborHub Backend\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T09:52:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NeighborHub Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NeighborHub Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T10:15:37.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NeighborHub Backend\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NeighborHub Backend\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T10:14:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\User.cs",
+              "RelativeDocumentMoniker": "NeighborHub Backend\\User.cs",
+              "ToolTip": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\User.cs",
+              "RelativeToolTip": "NeighborHub Backend\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T10:13:59.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NeighborHub Backend.http",
+              "DocumentMoniker": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\NeighborHub Backend.http",
+              "RelativeDocumentMoniker": "NeighborHub Backend\\NeighborHub Backend.http",
+              "ToolTip": "C:\\I\u00C1KK\\NeighborHub\\teszt\\NeighborHub Backend\\NeighborHub Backend\\NeighborHub Backend.http",
+              "RelativeToolTip": "NeighborHub Backend\\NeighborHub Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-05T10:14:20.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

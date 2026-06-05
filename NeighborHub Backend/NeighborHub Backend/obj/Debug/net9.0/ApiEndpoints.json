@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NeighborHub_Backend.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "NeighborHub_Backend.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
