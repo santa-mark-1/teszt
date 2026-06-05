@@ -1,8 +1,10 @@
 "use client";
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function LoginPage() {
   const [showPassword, setShowPassword] = useState<boolean>(false);
+  const router = useRouter();
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-[#111113] text-[#f0f0f0] px-4 py-8">
@@ -59,7 +61,10 @@ export default function LoginPage() {
           </div>
 
           {/* Login button */}
-          <button className="w-full py-3.5 rounded-lg bg-[#6b5fd4] border-none text-white text-base font-medium cursor-pointer transition-colors duration-200 hover:bg-[#5a4ec0]">
+          <button
+            onClick={() => router.push("/welcome")}
+            className="w-full py-3.5 rounded-lg bg-[#6b5fd4] border-none text-white text-base font-medium cursor-pointer transition-colors duration-200 hover:bg-[#5a4ec0]"
+          >
             Bejelentkezés
           </button>
 
